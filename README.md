@@ -1,6 +1,7 @@
 Google API Gmail - Send Message
 ===============================================================
-
+### Authorization Scopes
+	https://www.googleapis.com/auth/gmail.compose
 
 ### To Initial Google API 
 ```JAVA
